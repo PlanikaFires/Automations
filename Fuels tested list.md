@@ -1,7 +1,5 @@
 ---
-source: excel-sharepoint
-sheet: Public
-range: A1:B
+source: Laboratory
 snapshot_date: 2026-02-04
 ---
 
